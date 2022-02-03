@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.healthasyst.Static_Practice.java&apos; to &apos;Parent.java&apos;&#x0D;&#x0A;- Original project: &apos;JavaTraining&apos;&#x0D;&#x0A;- Original element: &apos;com.healthasyst.Static_Practice.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.healthasyst.Parent.java&apos;" description="Rename compilation unit &apos;Static_Practice.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.healthasyst{Static_Practice.java" name="Parent.java" references="false" stamp="1643690391794" version="1.0"/>
+</session>

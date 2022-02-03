@@ -1,0 +1,13 @@
+package com.healthasyst;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("abhishek");
+int r=10;
+int A= (int) (r*r*3.14);
+System.out.println(A + "\tMETER");
+	}
+
+}

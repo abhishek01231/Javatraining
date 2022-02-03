@@ -1,0 +1,16 @@
+package com.Ha.runner;
+
+import com.Ha.base.Person;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Person p1=new Person();
+		p1.setName("abhishek");
+		p1.setPhonenumber(2654321359);
+	System.out.println(p1.getName());
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.healthasyst;
+
+public class Area {
+
+	
+			  
+		     public static int aS = 10;
+		     public static int bS = 20;
+		     public int aNS = 10;
+		     public int bNS = 20;
+
+		     public static void main(String[] args) {
+		          Area obj1 = new  Area();
+		          Area obj2 = new  Area();
+		          obj1.aNS = 1000;
+		          obj1.bNS = 2000;
+		  
+		         System.out.println(obj2.aNS);
+		     }
+		
+
+}

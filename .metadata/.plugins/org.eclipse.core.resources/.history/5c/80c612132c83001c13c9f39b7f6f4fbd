@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package com.healthasyst.student;
+
+/**
+ * @author abhishek
+ *
+ */
+public class Student {
+
+private	 int studentid;
+private	 String studentmailid;
+private	String studentname;
+private static String Schoolname;
+private double percentage;
+	private static int counter;
+Student(){
+	
+	studentid=counter;
+	counter++;
+	
+	
+}
+	}
+
+
