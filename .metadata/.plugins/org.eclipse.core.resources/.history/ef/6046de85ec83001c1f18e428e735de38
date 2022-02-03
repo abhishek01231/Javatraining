@@ -1,9 +1,0 @@
-package com.Ha.groups;
-
-import com.Ha.base.Person;
-
-public class Student extends Person{
-int studentid;
-String studentname ;
-int studentpercentage;
-}
